@@ -68,10 +68,5 @@
 		"faction" : "neutral",
 		"special" : true,
 		"disabled" : true
-	},
-	"core:mummy" : {
-		"faction" : "neutral",
-		"special" : true,
-		"disabled" : true
 	}
 }
