@@ -1,23 +1,59 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"airConflux" : null,
-			"earthConflux" : null,
-			"fireConflux" : null,
-			"waterConflux" : null,
-			"magicLantern" : null,
-			"altarOfThought" : null,
-			"pyre" : null,
-			"altarOfAir" : null,
-			"altarOfEarth" : null,
-			"altarOfFire" : null,
-			"altarOfWater" : null
-		}
-	},
-	// subtype: unique special dwellings - golem factory and elemental conflux
-	"core:creatureGeneratorSpecial" : {
-		"types" : {
-			"elementalConflux" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"airConflux" : {  
+				"name": "Air Conflux",  
+				"disabled": true  
+			},  
+			"earthConflux" : {  
+				"name": "Earth Conflux",  
+				"disabled": true  
+			},  
+			"fireConflux" : {  
+				"name": "Fire Conflux",  
+				"disabled": true  
+			},  
+			"waterConflux" : {  
+				"name": "Water Conflux",  
+				"disabled": true  
+			},  
+			"magicLantern" : {  
+				"name": "Magic Lantern",  
+				"disabled": true  
+			},  
+			"altarOfThought" : {  
+				"name": "Altar of Thought",  
+				"disabled": true  
+			},  
+			"pyre" : {  
+				"name": "Pyre",  
+				"disabled": true  
+			},  
+			"altarOfAir" : {  
+				"name": "Altar of Air",  
+				"disabled": true  
+			},  
+			"altarOfEarth" : {  
+				"name": "Altar of Earth",  
+				"disabled": true  
+			},  
+			"altarOfFire" : {  
+				"name": "Altar of Fire",  
+				"disabled": true  
+			},  
+			"altarOfWater" : {  
+				"name": "Altar of Water",  
+				"disabled": true  
+			}  
+		}  
+	},  
+	// subtype: unique special dwellings - golem factory and elemental conflux  
+	"core:creatureGeneratorSpecial" : {  
+		"types" : {  
+			"elementalConflux" : {  
+				"name": "Elemental Conflux",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }

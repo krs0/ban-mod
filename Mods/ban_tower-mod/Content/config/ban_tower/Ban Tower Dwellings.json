@@ -1,18 +1,39 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"parapet" : null,
-			"altarOfWishes" : null,
-			"mageTower" : null,
-			"goldenPavilion" : null,
-			"workshop" : null,
-			"cloudTemple" : null
-		}
-	},
-	// subtype: unique special dwellings - golem factory and elemental conflux
-	"core:creatureGeneratorSpecial" : {
-		"types" : {
-			"golemFactory" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"parapet" : {  
+				"name": "Parapet",  
+				"disabled": true  
+			},  
+			"altarOfWishes" : {  
+				"name": "Altar of Wishes",  
+				"disabled": true  
+			},  
+			"mageTower" : {  
+				"name": "Mage Tower",  
+				"disabled": true  
+			},  
+			"goldenPavilion" : {  
+				"name": "Golden Pavilion",  
+				"disabled": true  
+			},  
+			"workshop" : {  
+				"name": "Workshop",  
+				"disabled": true  
+			},  
+			"cloudTemple" : {  
+				"name": "Cloud Temple",  
+				"disabled": true  
+			}  
+		}  
+	},  
+	// subtype: unique special dwellings - golem factory and elemental conflux  
+	"core:creatureGeneratorSpecial" : {  
+		"types" : {  
+			"golemFactory" : {  
+				"name": "Golem Factory",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }

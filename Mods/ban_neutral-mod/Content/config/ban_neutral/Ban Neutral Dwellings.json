@@ -1,25 +1,67 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"frozenCliffs" : null,
-			"crystalCavern" : null,
-			"magicForest" : null,
-			"sulfurousLair" : null,
-			"enchantersHollow" : null,
-			"treetopTower" : null,
-			"thatchedHut" : null,
-			"hovel" : null,
-			"boarGlen" : null,
-			"tombOfCurses" : null,
-			"nomadTent" : null,
-			"rogueCavern" : null,
-			"trollBridge" : null
-		}
-	},
-	// subtype: unique special dwellings - golem factory and elemental conflux
-	"core:creatureGeneratorSpecial" : {
-		"types" : {
-			"golemFactory" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"frozenCliffs" : {  
+				"name": "Frozen Cliffs",  
+				"disabled": true  
+			},  
+			"crystalCavern" : {  
+				"name": "Crystal Cavern",  
+				"disabled": true  
+			},  
+			"magicForest" : {  
+				"name": "Magic Forest",  
+				"disabled": true  
+			},  
+			"sulfurousLair" : {  
+				"name": "Sulfurous Lair",  
+				"disabled": true  
+			},  
+			"enchantersHollow" : {  
+				"name": "Enchanter's Hollow",  
+				"disabled": true  
+			},  
+			"treetopTower" : {  
+				"name": "Treetop Tower",  
+				"disabled": true  
+			},  
+			"thatchedHut" : {  
+				"name": "Thatched Hut",  
+				"disabled": true  
+			},  
+			"hovel" : {  
+				"name": "Hovel",  
+				"disabled": true  
+			},  
+			"boarGlen" : {  
+				"name": "Boar Glen",  
+				"disabled": true  
+			},  
+			"tombOfCurses" : {  
+				"name": "Tomb of Curses",  
+				"disabled": true  
+			},  
+			"nomadTent" : {  
+				"name": "Nomad Tent",  
+				"disabled": true  
+			},  
+			"rogueCavern" : {  
+				"name": "Rogue Cavern",  
+				"disabled": true  
+			},  
+			"trollBridge" : {  
+				"name": "Troll Bridge",  
+				"disabled": true  
+			}  
+		}  
+	},  
+	// subtype: unique special dwellings - golem factory and elemental conflux  
+	"core:creatureGeneratorSpecial" : {  
+		"types" : {  
+			"golemFactory" : {  
+				"name": "Golem Factory",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }

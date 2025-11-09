@@ -1,13 +1,34 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"guardhouse" : null,
-			"archersTower" : null,
-			"griffinTower" : null,
-			"barracks" : null,
-			"monastery" : null,
-			"trainingGrounds" : null,
-			"portalOfGlory" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"guardhouse" : {  
+				"name": "Guardhouse",  
+				"disabled": true  
+			},  
+			"archersTower" : {  
+				"name": "Archers' Tower",  
+				"disabled": true  
+			},  
+			"griffinTower" : {  
+				"name": "Griffin Tower",  
+				"disabled": true  
+			},  
+			"barracks" : {  
+				"name": "Barracks",  
+				"disabled": true  
+			},  
+			"monastery" : {  
+				"name": "Monastery",  
+				"disabled": true  
+			},  
+			"trainingGrounds" : {  
+				"name": "Training Grounds",  
+				"disabled": true  
+			},  
+			"portalOfGlory" : {  
+				"name": "Portal of Glory",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }

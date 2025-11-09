@@ -1,13 +1,34 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"hallOfDarkness" : null,
-			"dragonVault" : null,
-			"tombOfSouls" : null,
-			"mausoleum" : null,
-			"estate" : null,
-			"cursedTemple" : null,
-			"graveyard" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"hallOfDarkness" : {  
+				"name": "Hall of Darkness",  
+				"disabled": true  
+			},  
+			"dragonVault" : {  
+				"name": "Dragon Vault",  
+				"disabled": true  
+			},  
+			"tombOfSouls" : {  
+				"name": "Tomb of Souls",  
+				"disabled": true  
+			},  
+			"mausoleum" : {  
+				"name": "Mausoleum",  
+				"disabled": true  
+			},  
+			"estate" : {  
+				"name": "Estate",  
+				"disabled": true  
+			},  
+			"cursedTemple" : {  
+				"name": "Cursed Temple",  
+				"disabled": true  
+			},  
+			"graveyard" : {  
+				"name": "Graveyard",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }

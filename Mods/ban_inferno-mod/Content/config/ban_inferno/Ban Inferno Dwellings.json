@@ -1,13 +1,34 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"forsakenPalace" : null,
-			"fireLake" : null,
-			"hallOfSins" : null,
-			"kennels" : null,
-			"impCrucible" : null,
-			"demonGate" : null,
-			"hellHole" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"forsakenPalace" : {  
+				"name": "Forsaken Palace",  
+				"disabled": true  
+			},  
+			"fireLake" : {  
+				"name": "Fire Lake",  
+				"disabled": true  
+			},  
+			"hallOfSins" : {  
+				"name": "Hall of Sins",  
+				"disabled": true  
+			},  
+			"kennels" : {  
+				"name": "Kennels",  
+				"disabled": true  
+			},  
+			"impCrucible" : {  
+				"name": "Imp Crucible",  
+				"disabled": true  
+			},  
+			"demonGate" : {  
+				"name": "Demon Gate",  
+				"disabled": true  
+			},  
+			"hellHole" : {  
+				"name": "Hell Hole",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }

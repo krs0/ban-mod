@@ -1,14 +1,38 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"centaurStables" : null,
-			"dwarfCottage" : null,
-			"homestead" : null,
-			"dragonCliffs" : null,
-			"dendroidArches" : null,
-			"enchantedSpring" : null,
-			"unicornGladeBig" : null,
-			"unicornGlade" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"centaurStables" : {  
+				"name": "Centaur Stables",  
+				"disabled": true  
+			},  
+			"dwarfCottage" : {  
+				"name": "Dwarf Cottage",  
+				"disabled": true  
+			},  
+			"homestead" : {  
+				"name": "Homestead",  
+				"disabled": true  
+			},  
+			"dragonCliffs" : {  
+				"name": "Dragon Cliffs",  
+				"disabled": true  
+			},  
+			"dendroidArches" : {  
+				"name": "Dendroid Arches",  
+				"disabled": true  
+			},  
+			"enchantedSpring" : {  
+				"name": "Enchanted Spring",  
+				"disabled": true  
+			},  
+			"unicornGladeBig" : {  
+				"name": "Unicorn Glade",  
+				"disabled": true  
+			},  
+			"unicornGlade" : {  
+				"name": "Unicorn Glade",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }

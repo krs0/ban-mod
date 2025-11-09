@@ -1,13 +1,34 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"behemothCrag" : null,
-			"cyclopsCave" : null,
-			"wolfPen" : null,
-			"goblinBarracks" : null,
-			"ogreFort" : null,
-			"orcTower" : null,
-			"cliffNest" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"behemothCrag" : {  
+				"name": "Behemoth Crag",  
+				"disabled": true  
+			},  
+			"cyclopsCave" : {  
+				"name": "Cyclops Cave",  
+				"disabled": true  
+			},  
+			"wolfPen" : {  
+				"name": "Wolf Pen",  
+				"disabled": true  
+			},  
+			"goblinBarracks" : {  
+				"name": "Goblin Barracks",  
+				"disabled": true  
+			},  
+			"ogreFort" : {  
+				"name": "Ogre Fort",  
+				"disabled": true  
+			},  
+			"orcTower" : {  
+				"name": "Orc Tower",  
+				"disabled": true  
+			},  
+			"cliffNest" : {  
+				"name": "Cliff Nest",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }

@@ -1,13 +1,34 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"pillarOfEyes" : null,
-			"harpyLoft" : null,
-			"manticoreLair" : null,
-			"medusaChapel" : null,
-			"labyrinth" : null,
-			"dragonCave" : null,
-			"warren" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"pillarOfEyes" : {  
+				"name": "Pillar of Eyes",  
+				"disabled": true  
+			},  
+			"harpyLoft" : {  
+				"name": "Harpy Loft",  
+				"disabled": true  
+			},  
+			"manticoreLair" : {  
+				"name": "Manticore Lair",  
+				"disabled": true  
+			},  
+			"medusaChapel" : {  
+				"name": "Medusa Chapel",  
+				"disabled": true  
+			},  
+			"labyrinth" : {  
+				"name": "Labyrinth",  
+				"disabled": true  
+			},  
+			"dragonCave" : {  
+				"name": "Dragon Cave",  
+				"disabled": true  
+			},  
+			"warren" : {  
+				"name": "Warren",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }

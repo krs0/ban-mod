@@ -1,13 +1,34 @@
-{
-	"core:creatureGeneratorCommon" : {
-		"types" : {
-			"basiliskPit" : null,
-			"serpentFlyHive" : null,
-			"gnollHut" : null,
-			"gorgonLair" : null,
-			"hydraPond" : null,
-			"lizardDen" : null,
-			"wyvernNest" : null
-		}
-	}
+{  
+	"core:creatureGeneratorCommon" : {  
+		"types" : {  
+			"basiliskPit" : {  
+				"name": "Basilisk Pit",  
+				"disabled": true  
+			},  
+			"serpentFlyHive" : {  
+				"name": "Serpent Fly Hive",  
+				"disabled": true  
+			},  
+			"gnollHut" : {  
+				"name": "Gnoll Hut",  
+				"disabled": true  
+			},  
+			"gorgonLair" : {  
+				"name": "Gorgon Lair",  
+				"disabled": true  
+			},  
+			"hydraPond" : {  
+				"name": "Hydra Pond",  
+				"disabled": true  
+			},  
+			"lizardDen" : {  
+				"name": "Lizard Den",  
+				"disabled": true  
+			},  
+			"wyvernNest" : {  
+				"name": "Wyvern Nest",  
+				"disabled": true  
+			}  
+		}  
+	}  
 }
