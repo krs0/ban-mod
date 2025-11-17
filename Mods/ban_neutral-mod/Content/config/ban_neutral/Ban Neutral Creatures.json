@@ -47,8 +47,8 @@
 	},
 	"core:peasant" : {
 		//"special" : true,
-		//"disabled" : true,
-		//"faction" : "castle"
+		"disabled" : true,
+		"faction" : "castle"
 	},
 	"core:boar" : {
 		//"special" : true,
